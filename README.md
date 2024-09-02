@@ -1,8 +1,8 @@
 <div align="center">
 <div style="display:flex;justify-content:space-between">
-<img src="./image/logo/zinary.png" alt="zinary">
+<img style="width:70px" src="./image/logo/zinary.png" alt="zinary">
   <h1 style="color:orange">ZANA NOURI</h1>
-  <img src="./image/logo/apsignals.png" alt="apsignals">
+  <img style="width:70px" src="./image/logo/apsignals.png" alt="apsignals">
 
 </div>
   <h3>Full-stack developer with expertise in front-end and back-end</h3>
